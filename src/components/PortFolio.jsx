@@ -1,6 +1,3 @@
-import React from "react";
-import java from "../assets/java.png";
-import python from "../assets/python.webp";
 import project1 from "../assets/p1.png";
 import project2 from "../assets/p2.png";
 import project3 from "../assets/p3.png";
